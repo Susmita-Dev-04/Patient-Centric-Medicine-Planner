@@ -1,0 +1,162 @@
+stomach_pain
+skin_rash,itching
+nodal_skin_eruptions
+continuous_sneezing
+stomach_pain,acidity
+ulcers_on_tongue,muscle_wasting
+vomiting
+vomiting,burning_micturition
+vomiting,burning_micturition,spotting_ urination
+itching
+skin_rash
+nodal_skin_eruptions
+continuous_sneezing
+shivering
+chills
+joint_pain
+stomach_pain
+acidity
+ulcers_on_tongue
+muscle_wasting
+vomiting
+burning_micturition
+spotting_ urination
+fatigue
+weight_gain
+anxiety
+cold_hands_and_feets
+mood_swings
+weight_loss
+restlessness
+lethargy
+patches_in_throat
+irregular_sugar_level
+cough
+high_fever
+breathlessness
+sweating
+dehydration
+indigestion
+headache
+yellowish_skin
+dark_urine
+loss_of_appetite
+pain_behind_the_eyes
+back_pain
+constipation
+abdominal_pain
+diarrhoea
+mild_fever
+yellow_urine
+yellowing_of_eyes
+acute_liver_failure
+fluid_overload
+swelling_of_stomach
+swelled_lymph_nodes
+malaise
+blurred_and_distorted_vision
+phlegm
+throat_irritation
+redness_of_eyes
+sinus_pressure
+runny_nose
+congestion
+chest_pain
+weakness_in_limbs
+fast_heart_rate
+pain_during_bowel_movements
+pain_in_anal_region
+bloody_stool
+irritation_in_anus
+neck_pain
+dizziness
+cramps
+bruising
+obesity
+swollen_legs
+swollen_blood_vessels
+puffy_face_and_eyes
+enlarged_thyroid
+brittle_nails
+swollen_extremeties
+excessive_hunger
+extra_marital_contacts
+drying_and_tingling_lips
+slurred_speech
+knee_pain
+hip_joint_pain
+muscle_weakness
+stiff_neck
+swelling_joints
+movement_stiffness
+spinning_movements
+loss_of_balance
+unsteadiness
+weakness_of_one_body_side
+loss_of_smell
+bladder_discomfort
+foul_smell_of urine
+continuous_feel_of_urine
+passage_of_gases
+toxic_look_(typhos)
+depression
+irritability
+muscle_pain
+altered_sensorium
+red_spots_over_body
+belly_pain
+abnormal_menstruation
+dischromic _patches
+watering_from_eyes
+increased_appetite
+polyuria
+family_history
+mucoid_sputum
+rusty_sputum
+lack_of_concentration
+visual_disturbances
+receiving_blood_transfusion
+receiving_unsterile_injections
+coma
+stomach_bleeding
+distention_of_abdomen
+history_of_alcohol_consumption
+fluid_overload.1
+blood_in_sputum
+prominent_veins_on_calf
+palpitations
+painful_walking
+pus_filled_pimples
+blackheads
+scurring
+skin_peeling
+silver_like_dusting
+small_dents_in_nails
+inflammatory_nails
+blister
+red_sore_around_nose
+yellow_crust_ooze
+
+
+
+Objective of the Personalized Medicine Recommendation System:.......................................................
+The objective of this personalized medicine recommendation system is to provide comprehensive healthcare guidance 
+based on user-provided symptoms. The system aims to predict potential diseases and recommend personalized precautions, 
+medications, workouts, and diet plans. This approach enhances overall health management by providing tailored advice 
+that suits the unique needs of each user, leading to better health outcomes and a more proactive approach to wellness.
+.......................................................................................................................
+
+Benefits of the Personalized Medicine Recommendation System:
+Early Disease Detection: By analyzing symptoms, the system can help in the early detection of potential diseases, allowing for timely intervention and treatment.
+
+Holistic Health Guidance: The system offers a complete package of healthcare recommendations, including medications, workouts, diets, and precautions, enabling users to manage their health more effectively.
+
+Personalized Treatment Plans: The system provides tailored medical advice, including specific medications and precautions, which increases the effectiveness of treatments and reduces the likelihood of adverse reactions.
+
+Improved Patient Engagement: Users are empowered to take an active role in their health management by receiving actionable insights, leading to better adherence to treatment plans and lifestyle changes.
+
+Comprehensive Lifestyle Support: Beyond medication, the system suggests workouts and diets, promoting a balanced approach to health and well-being.
+
+Convenient and Accessible: Users can access personalized healthcare recommendations anytime and anywhere, making healthcare more convenient and accessible.
+
+Reduced Healthcare Costs: By providing early detection and tailored treatment recommendations, the system may help reduce unnecessary medical visits, tests, and treatments, lowering overall healthcare costs.
