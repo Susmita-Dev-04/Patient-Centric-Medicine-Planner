@@ -12,9 +12,7 @@ An intelligent web-based application designed to predict diseases based on sympt
 - [Project Architecture](#-project-architecture)
 - [How It Works](#-how-it-works)
 - [Installation & Setup](#-installation--setup)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -96,9 +94,9 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
 2. **Create and activate a virtual environment**
     ```bash
     python -m venv venv
-# For Windows:
+    #For Windows:
     venv\Scripts\activate
-# For macOS/Linux:
+    #For macOS/Linux:
     source venv/bin/activate
 
 3. **Install the dependencies**
@@ -113,4 +111,23 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
 5. **Access the app**
     Open your browser and go to http://127.0.0.1:5000/
 
+## 🤝Contributing
+
+**If you would like to contribute to this project, feel free to follow these simple steps:**
+
+- Fork the repository.
+
+- Clone the forked repository.
+
+- Create a new branch and make your changes.
+
+- Commit and push your changes.
+
+- Open a pull request for review.
+
+**Any kind of contribution is welcome — whether it’s fixing bugs, improving the UI, adding new features, or suggesting ideas to enhance the system.**
+
+## Acknowledgments
+
+I would like to thank my mentors and everyone who supported and encouraged me throughout this project. Special thanks to the open-source community and the tools that made this project possible.
 
