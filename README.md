@@ -26,16 +26,30 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
 - Provide detailed medical advice including **precautions**, **medications**, **workouts**, and **diet plans** tailored to the predicted disease.
 - Offer a user-friendly interface for self-assessment and wellness planning.
 
+## Home Page View
+
+![Home-Page](https://github.com/Susmita-Dev-04/Patient-Centric-Medicine-Planner/blob/main/Readme-Resource/Home-Page.png)
+
+
 ---
 
-## ✨ Features
+## 💡 Features
 
-- 🔍 Symptom-based Disease Prediction
-- 💊 Recommended Medicines for the predicted condition
-- 🥗 Diet and Nutrition Plan suggestions
-- 🧘‍♀️ Workout Routines for better recovery
-- 🛡️ Precautions to avoid worsening the condition
-- 🌐 Web Interface for easy interaction
+- ✅ Disease prediction from multiple symptoms
+- 💊 Suggests medication based on diagnosed disease
+- 🧘 Provides personalized workout routines
+- 🥗 Recommends diet charts for faster recovery
+- 🛡️ Lists disease-specific precautions
+- 🌐 Easy-to-use Flask web interface
+
+---
+
+## 🧠 Machine Learning
+
+- **Model**: Support Vector Classifier (SVC)
+- **Dataset**: Custom dataset loaded from `datasets/` directory
+- **Training Code**: Available in `Medicine Recommendation System.ipynb`
+- **Model File**: Stored in `svc.pkl` and `model_reference.pkl`
 
 ---
 
@@ -51,20 +65,7 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
 
 ## 🧠 Project Architecture
 
-📁 Project Folder
-│
-├── app.py # Main Flask app
-├── templates/ # HTML templates
-│ └── index.html
-│ └── result.html
-├── static/ # CSS/JS/images
-├── model/ # ML model files
-│ └── disease_model.pkl
-├── data/ # Dataset
-│ └── disease.csv
-├── requirements.txt # Python dependencies
-└── README.md # Project description
-
+![Architecture](https://github.com/Susmita-Dev-04/Patient-Centric-Medicine-Planner/blob/main/Readme-Resource/Architecture.png)
 
 ---
 
@@ -78,7 +79,9 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
    - Suggested medications
    - Diet chart
    - Recommended exercises or workouts
-4. **Output Display**: All details are shown in a simple and clear UI for the user.
+4. **Output Display(Fimal Report)**: All details are shown in a simple and clear UI for the user.
+
+![Report](https://github.com/Susmita-Dev-04/Patient-Centric-Medicine-Planner/blob/main/Readme-Resource/Report.png)
 
 ---
 
@@ -87,5 +90,27 @@ This Patient-Centric Medicine Planner is a healthcare web application that lever
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/patient-centric-medicine-planner.git
-   
+
    cd patient-centric-medicine-planner
+
+2. **Create and activate a virtual environment**
+    ```bash
+    python -m venv venv
+# For Windows:
+    venv\Scripts\activate
+# For macOS/Linux:
+    source venv/bin/activate
+
+3. **Install the dependencies**
+    ```bash
+    pip install -r requirements.txt
+
+        If requirements.txt is not available, install manually:
+    pip install flask scikit-learn pandas numpy
+4. **Run the application**
+    ```bash
+    python main.py
+5. **Access the app**
+    Open your browser and go to http://127.0.0.1:5000/
+
+
